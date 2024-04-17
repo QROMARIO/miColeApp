@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
     './app.component.css',
     './app.responsive.css',
     './styles.css',
+    './bootstrap.css',
   ]
 })
 export class AppComponent {
