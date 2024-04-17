@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
   [
     './app.component.css',
     './app.responsive.css',
-    './style.css'
+    './styles.css',
   ]
 })
 export class AppComponent {
