@@ -1,4 +1,4 @@
-.top_container::before {
+/* .top_container::before {
   content: "";
   position: absolute;
   width: 100%;
@@ -22,4 +22,4 @@
 .custom_nav-container .navbar-toggler .navbar-toggler-icon {
   background-image: url('/assets/images/menu.png');
   background-size: 40px;
-}
+} */
