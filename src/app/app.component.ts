@@ -13,5 +13,4 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'miColeApp';
-  public srcAbout:string = 'https://i.postimg.cc/qqqDTw9T/about.png';
 }
